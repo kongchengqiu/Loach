@@ -54,7 +54,7 @@ function isArrayFn(val) {
   }
 }
 ```
-##### 总结
+#### 总结
 使用toString()检测对象类型，是比较靠谱的
 ```
 var toString = Object.prototype.toString;
